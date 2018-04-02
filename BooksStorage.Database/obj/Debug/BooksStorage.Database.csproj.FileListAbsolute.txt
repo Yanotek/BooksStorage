@@ -1,0 +1,16 @@
+c:\users\joni_\source\repos\BooksStorage\BooksStorage.Database\bin\Debug\BooksStorage.Database.dll.config
+c:\users\joni_\source\repos\BooksStorage\BooksStorage.Database\bin\Debug\BooksStorage.Database.dll
+c:\users\joni_\source\repos\BooksStorage\BooksStorage.Database\bin\Debug\BooksStorage.Database.pdb
+c:\users\joni_\source\repos\BooksStorage\BooksStorage.Database\bin\Debug\EntityFramework.dll
+c:\users\joni_\source\repos\BooksStorage\BooksStorage.Database\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\joni_\source\repos\BooksStorage\BooksStorage.Database\bin\Debug\EntityFramework.xml
+c:\users\joni_\source\repos\BooksStorage\BooksStorage.Database\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\joni_\source\repos\BooksStorage\BooksStorage.Database\obj\Debug\BooksStorage.Database.csprojResolveAssemblyReference.cache
+c:\users\joni_\source\repos\BooksStorage\BooksStorage.Database\obj\Debug\BooksStorage.Database.csproj.CoreCompileInputs.cache
+c:\users\joni_\source\repos\BooksStorage\BooksStorage.Database\obj\Debug\BooksStorage.Database.dll
+c:\users\joni_\source\repos\BooksStorage\BooksStorage.Database\obj\Debug\BooksStorage.Database.pdb
+C:\Users\joni_\source\repos\BooksStorage\BooksStorage.Database\bin\Debug\System.Data.SQLite.dll
+C:\Users\joni_\source\repos\BooksStorage\BooksStorage.Database\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\joni_\source\repos\BooksStorage\BooksStorage.Database\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\joni_\source\repos\BooksStorage\BooksStorage.Database\bin\Debug\System.Data.SQLite.xml
+C:\Users\joni_\source\repos\BooksStorage\BooksStorage.Database\bin\Debug\System.Data.SQLite.dll.config
